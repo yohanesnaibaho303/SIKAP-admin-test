@@ -5,9 +5,8 @@
    <tag></tag>
    <UUID>c4fcbe93-76b6-44d2-a03f-fda32e381c11</UUID>
    <createdVersion>9.3.1</createdVersion>
-   <freeLicense>true</freeLicense>
+   <freeLicense>false</freeLicense>
    <migratedVersion>5.9.0</migratedVersion>
-   <modifiedVersion>9.3.1</modifiedVersion>
    <pageLoadTimeout>0</pageLoadTimeout>
    <projectFileLocation>C:\Users\yohan\Katalon Studio\Admin Test SIKAP Portal\Admin Test SIKAP Portal.prj</projectFileLocation>
    <sourceContent>
@@ -28,6 +27,6 @@
          </systemFolderConfiguration>
       </systemFolderList>
    </sourceContent>
-   <timeStampInProperties>true</timeStampInProperties>
+   <timeStampInProperties>false</timeStampInProperties>
    <type>WEBUI</type>
 </Project>
