@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GlobalVariableEntities>
+   <description></description>
+   <name>local</name>
+   <tag></tag>
+   <defaultProfile>false</defaultProfile>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>'https://qc167.bpjs-kesehatan.go.id/sikap/sign-in'</initValue>
+      <name>urlLogin</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description>admin</description>
+      <initValue>'05775'</initValue>
+      <name>username</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description>user</description>
+      <initValue>'05868'</initValue>
+      <name>username_2</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description>password</description>
+      <initValue>'1'</initValue>
+      <name>password</name>
+   </GlobalVariableEntity>
+</GlobalVariableEntities>
