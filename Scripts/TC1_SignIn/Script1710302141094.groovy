@@ -33,15 +33,17 @@ import com.kms.katalon.core.cucumber.keyword.CucumberBuiltinKeywords as Cucumber
 import com.kms.katalon.core.windows.keyword.WindowsBuiltinKeywords as Windows
 import static com.kms.katalon.core.testobject.ObjectRepository.findWindowsObject
 
-WebUI.openBrowser('')
+WebUI.openBrowser(GlobalVariable.urlLogin)
 
-WebUI.navigateToUrl('https://qc167.bpjs-kesehatan.go.id/sikap/sign-in')
+WebUI.maximizeWindow()
 
-WebUI.setText(findTestObject('Object Repository/SignIn Obj/SignIn - Username Admin'), '05775')
+//WebUI.maximizeWindow()
+//WebUI.navigateToUrl('https://qc167.bpjs-kesehatan.go.id/sikap/sign-in')
+WebUI.setText(findTestObject('Object Repository/SignIn Obj/SignIn - Username Admin'), GlobalVariable.username)
 
 WebUI.setEncryptedText(findTestObject('Object Repository/SignIn Obj/SignIn - Password Admin'), 'HeCM15nHKBI=')
 
-WebUI.verifyElementClickable(findTestObject('Object Repository/SignIn Obj/span_Sign in'))
+WebUI.click(findTestObject('SignIn Obj/span_Sign in'))
 
-WebUI.doubleClick(findTestObject('SignIn Obj/span_Sign in'))
+WebUI.verifyElementPresent(findTestObject('SignIn Obj/p_Jenis Regulasi'), 0)
 

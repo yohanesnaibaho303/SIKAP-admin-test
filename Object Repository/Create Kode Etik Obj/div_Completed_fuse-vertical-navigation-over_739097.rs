@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Completed_fuse-vertical-navigation-over_739097</name>
+   <tag></tag>
+   <elementGuidId>10b7248a-94a5-4015-8299-274ec365eb8a</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>div.fuse-vertical-navigation-overlay.ng-tns-c53-3</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//classy-layout/div[2]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>7751cbcc-381f-492c-a5cb-ca92e1812087</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>fuse-vertical-navigation-overlay ng-tns-c53-3</value>
+      <webElementGuid>34af3bb6-e309-4c95-8c93-7778a7f0afeb</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[1]/body[@class=&quot;fuse-splash-screen-hidden os-windows light theme-default ng-tns-0-4&quot;]/app-root[1]/layout[@class=&quot;ng-star-inserted&quot;]/classy-layout[@class=&quot;ng-star-inserted&quot;]/div[@class=&quot;fuse-vertical-navigation-overlay ng-tns-c53-3&quot;]</value>
+      <webElementGuid>e9ae328f-33c1-49fa-8ff1-0660891bda8e</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//classy-layout/div[2]</value>
+      <webElementGuid>bc8ecc50-560f-418a-93d9-639bf69ad122</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

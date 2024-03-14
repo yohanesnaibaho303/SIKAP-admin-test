@@ -19,9 +19,4 @@
       <initValue>'05868'</initValue>
       <name>username_2</name>
    </GlobalVariableEntity>
-   <GlobalVariableEntity>
-      <description>password</description>
-      <initValue>'1'</initValue>
-      <name>password</name>
-   </GlobalVariableEntity>
 </GlobalVariableEntities>

@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_Kedeputian Bidang Strategi, Perencanaa_8a0a63</name>
+   <tag></tag>
+   <elementGuidId>2c59d523-c1e0-413f-80f7-1ccba2f76d72</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>#mat-option-4457 > span.mdc-list-item__primary-text</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>(//span[contains(text(),'Kedeputian Bidang Strategi, Perencanaan, dan Penge')])[1]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>abf73a6e-0f9d-4553-9a69-ae65506e0854</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>mdc-list-item__primary-text</value>
+      <webElementGuid>9789dfa6-64c2-4e3c-b46d-f058ba211298</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value> Kedeputian Bidang Strategi, Perencanaan, dan Pengembangan Teknologi Informasi </value>
+      <webElementGuid>b489012f-92b7-435e-860f-d08123ea0892</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;mat-option-4457&quot;)/span[@class=&quot;mdc-list-item__primary-text&quot;]</value>
+      <webElementGuid>5a4229b6-70b8-4f0d-8279-bd3f5924ed8c</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//mat-option[@id='mat-option-4457']/span</value>
+      <webElementGuid>942740fb-8fed-4a29-9d83-cca1d23f6642</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Kedeputian Bidang Operasional dan Keamanan Teknologi Informasi'])[2]/following::span[1]</value>
+      <webElementGuid>3829001d-7237-44a8-8f50-5d6823d3e049</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Select All'])[1]/following::span[2]</value>
+      <webElementGuid>99ae40d7-e673-43a4-ae91-4fa3f5e2fe6c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Kedeputian Bidang Strategi, Perencanaan, dan Pengembangan Teknologi Informasi']/parent::*</value>
+      <webElementGuid>51e32046-102d-47ef-9063-30c79d5b4c19</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//mat-option[3]/span</value>
+      <webElementGuid>e234cf16-8e4b-4583-8e1a-3560801d3552</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = ' Kedeputian Bidang Strategi, Perencanaan, dan Pengembangan Teknologi Informasi ' or . = ' Kedeputian Bidang Strategi, Perencanaan, dan Pengembangan Teknologi Informasi ')]</value>
+      <webElementGuid>f0c239f7-49e0-41e0-aa10-042c1adbf408</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
