@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>td_1</name>
+   <tag></tag>
+   <elementGuidId>487e545a-53f7-4410-9e9b-bf65ff387ea8</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>(.//*[normalize-space(text()) and normalize-space(.)='Actions'])[1]/following::td[1]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>td.mat-mdc-cell.mdc-data-table__cell.cdk-cell.cdk-column-no.mat-column-no.ng-star-inserted</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>td</value>
+      <webElementGuid>f6340320-3329-41bb-90df-95b3c54f9dbd</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>mat-mdc-cell mdc-data-table__cell cdk-cell cdk-column-no mat-column-no ng-star-inserted</value>
+      <webElementGuid>a4c3e140-3f05-4599-94e2-02a730d008b3</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>role</name>
+      <type>Main</type>
+      <value>cell</value>
+      <webElementGuid>743ac2ab-9f15-4794-b65f-d722809a306c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value> 1 </value>
+      <webElementGuid>52b898e0-391c-4cd4-abd1-0eaf281c24c2</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[1]/body[@class=&quot;fuse-splash-screen-hidden light theme-default os-windows ng-tns-0-1&quot;]/app-root[1]/layout[@class=&quot;ng-star-inserted&quot;]/classy-layout[@class=&quot;ng-star-inserted&quot;]/div[@class=&quot;flex flex-col flex-auto w-full min-w-0&quot;]/div[@class=&quot;flex flex-col flex-auto&quot;]/app-inputdkkkodeetik[@class=&quot;ng-star-inserted&quot;]/div[@class=&quot;flex flex-col w-full&quot;]/div[@class=&quot;bg-card flex flex-col flex-auto min-w-0 m-6 rounded-xl&quot;]/div[@class=&quot;m-2&quot;]/table[@class=&quot;mat-mdc-table mdc-data-table__table cdk-table&quot;]/tbody[@class=&quot;mdc-data-table__content&quot;]/tr[@class=&quot;mat-mdc-row mdc-data-table__row cdk-row ng-star-inserted&quot;]/td[@class=&quot;mat-mdc-cell mdc-data-table__cell cdk-cell cdk-column-no mat-column-no ng-star-inserted&quot;]</value>
+      <webElementGuid>0358d290-3ebe-4ff3-ac2c-c788bce35750</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Actions'])[1]/following::td[1]</value>
+      <webElementGuid>c1099ada-3291-447c-9131-51875aa1086e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Status'])[1]/following::td[1]</value>
+      <webElementGuid>6971519e-59f9-49aa-93d3-13bd96fd2ee1</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Kedeputian Bidang Tata Kelola, Risiko, dan Kepatuhan Internal'])[2]/preceding::td[1]</value>
+      <webElementGuid>cbee1ab0-4395-424e-813a-f13603384783</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='test auto lagi'])[1]/preceding::td[2]</value>
+      <webElementGuid>2a0b85fc-1961-47be-b1e6-67d268b0e462</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='1']/parent::*</value>
+      <webElementGuid>ad98c97c-e94c-48c7-a682-e2c231e2b93c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//td</value>
+      <webElementGuid>9a9fd107-191d-4790-9a50-ae15d662bb3e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//td[(text() = ' 1 ' or . = ' 1 ')]</value>
+      <webElementGuid>deff0025-48f5-4bd1-a9a5-7ca6089fbe4b</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

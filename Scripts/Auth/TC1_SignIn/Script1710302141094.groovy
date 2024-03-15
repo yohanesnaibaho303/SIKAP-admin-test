@@ -33,15 +33,19 @@ import com.kms.katalon.core.cucumber.keyword.CucumberBuiltinKeywords as Cucumber
 import com.kms.katalon.core.windows.keyword.WindowsBuiltinKeywords as Windows
 import static com.kms.katalon.core.testobject.ObjectRepository.findWindowsObject
 
+WebUI.comment('Browser secara otomatis terbuka dan direct ke signin page')
+
 WebUI.openBrowser(GlobalVariable.urlLogin)
 
 WebUI.maximizeWindow()
 
-//WebUI.maximizeWindow()
-//WebUI.navigateToUrl('https://qc167.bpjs-kesehatan.go.id/sikap/sign-in')
+WebUI.comment('Automated Bot mengisi UID dan PWD secara otomatis')
+
 WebUI.setText(findTestObject('Object Repository/SignIn Obj/SignIn - Username Admin'), GlobalVariable.username)
 
 WebUI.setEncryptedText(findTestObject('Object Repository/SignIn Obj/SignIn - Password Admin'), 'HeCM15nHKBI=')
+
+WebUI.comment('Setelah mengisi Valid data user diharapkan akan dialihkan ke halaman utama atau dashboard')
 
 WebUI.click(findTestObject('SignIn Obj/span_Sign in'))
 

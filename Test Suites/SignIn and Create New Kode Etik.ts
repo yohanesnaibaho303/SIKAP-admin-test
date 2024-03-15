@@ -15,14 +15,14 @@
       <guid>5d8e9661-83ee-4c89-b72b-52bd2b26c6fe</guid>
       <isReuseDriver>false</isReuseDriver>
       <isRun>true</isRun>
-      <testCaseId>Test Cases/TC1_SignIn</testCaseId>
+      <testCaseId>Test Cases/Auth/TC1_SignIn</testCaseId>
       <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
    </testCaseLink>
    <testCaseLink>
       <guid>2b3341f9-338e-449f-afc4-757af18a2d86</guid>
       <isReuseDriver>false</isReuseDriver>
       <isRun>true</isRun>
-      <testCaseId>Test Cases/TC3_Create Input Kode Etik</testCaseId>
+      <testCaseId>Test Cases/Inventarisasi/Kode Etik/TC3_CREATE Kode Etik</testCaseId>
       <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
    </testCaseLink>
 </TestSuiteEntity>

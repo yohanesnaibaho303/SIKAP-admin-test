@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_Coba Update XXX1</name>
+   <tag></tag>
+   <elementGuidId>5067909d-004d-4b6d-b1d3-aa77a2f98f90</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//mat-option[@id='mat-option-10']/span</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>#mat-option-10 > span.mdc-list-item__primary-text</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>d1ec1578-7855-48e8-9453-f6d982817a7c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>mdc-list-item__primary-text</value>
+      <webElementGuid>0561c025-f95a-4a7f-866d-69d6d1c8024b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Coba Update XXX1</value>
+      <webElementGuid>3563dbb7-ce47-4afb-95e2-075f4bc07884</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;mat-option-10&quot;)/span[@class=&quot;mdc-list-item__primary-text&quot;]</value>
+      <webElementGuid>cf344918-8d81-415b-86f1-fc696bec2770</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//mat-option[@id='mat-option-10']/span</value>
+      <webElementGuid>f1ce9b7b-e406-4a1f-9753-3938d1e3ef5f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Substansi'])[1]/following::span[2]</value>
+      <webElementGuid>5dcfd2e6-bc3c-4e67-928c-c6c2e4dc25cd</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Nama Produk Hukum 10'])[1]/preceding::span[1]</value>
+      <webElementGuid>5718a3eb-d92a-480c-b765-342831fee3c1</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Nama Produk Hukum 11'])[1]/preceding::span[2]</value>
+      <webElementGuid>b526b259-48cf-42d4-bdae-f38f6d97d630</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Coba Update XXX1']/parent::*</value>
+      <webElementGuid>1cba3a9f-8356-44fb-8fc0-3b772a613993</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//mat-option[2]/span</value>
+      <webElementGuid>6f10daf8-23cc-42a0-b9c1-19e465abaec9</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = 'Coba Update XXX1' or . = 'Coba Update XXX1')]</value>
+      <webElementGuid>9083a2fd-29e1-4491-b7d7-327c92270696</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

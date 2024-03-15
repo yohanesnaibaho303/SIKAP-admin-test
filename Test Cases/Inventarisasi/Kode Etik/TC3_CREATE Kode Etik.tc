@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Test case ini untuk menguji fitur menambahkan data baru ke Kode Etik</description>
+   <name>TC3_CREATE Kode Etik</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>c66b9228-ff42-45e9-b23c-32219d3d90e3</testCaseGuid>
+</TestCaseEntity>
