@@ -17,13 +17,35 @@ import com.kms.katalon.core.windows.keyword.WindowsBuiltinKeywords as Windows
 import internal.GlobalVariable as GlobalVariable
 import org.openqa.selenium.Keys as Keys
 
-WebUI.callTestCase(findTestCase('Auth/TC1_SignIn'), [:], FailureHandling.STOP_ON_FAILURE)
+WebUI.comment('Setelah berhasil login, maka admin akan mengupdate data kode etik')
 
-WebUI.comment('Untuk memastikan apakah data di Kode etik ada atau tidak')
+WebUI.click(findTestObject('Button Update Inventarisasi/Button Update Kode Etik(by index)'))
 
-WebUI.click(findTestObject('Object Repository/Read Kode Etik/div_Inventarisasi'))
+// Simpan nilai input sebelumnya
+String previousInput = WebUI.getAttribute(findTestObject('Update Kode Etik/textarea_Coba Update XXX1_mat-input-3'), 'value')
 
-WebUI.click(findTestObject('Object Repository/Read Kode Etik/a_Kode Etik'))
+WebUI.comment('Codingan Logic untuk mengecek Jikalau String yang ingin di update sama, maka akan diupdate')
 
-WebUI.verifyTextPresent('1', false)
+// Input value baru
+String newValue = 'Produk Hukum Automation'
+
+// Lakukan pengecekan kondisional
+if (newValue.equals(previousInput)) {
+    String suffix = 'Terbaru dan Terupdate'
+
+    while (newValue.equals(previousInput)) {
+        newValue += " $suffix"
+    }
+}
+
+// Masukkan nilai input baru
+WebUI.setText(findTestObject('Update Kode Etik/textarea_Coba Update XXX1_mat-input-3'), newValue)
+
+WebUI.click(findTestObject('Object Repository/Update Kode Etik/span_Update'))
+
+WebUI.click(findTestObject('Object Repository/Update Kode Etik/button_Yes'))
+
+WebUI.click(findTestObject('Object Repository/Update Kode Etik/button_OK'))
+
+WebUI.comment('Data berhasil diupdate')
 

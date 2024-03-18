@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <TestSuiteEntity>
-   <description>automation can handle upload file from local storage</description>
-   <name>SignIn and Create New Kode Etik</name>
+   <description></description>
+   <name>TS1_Login and Update Kode Etik</name>
    <tag></tag>
    <isRerun>false</isRerun>
    <mailRecipient></mailRecipient>
@@ -10,19 +10,26 @@
    <pageLoadTimeoutDefault>true</pageLoadTimeoutDefault>
    <rerunFailedTestCasesOnly>false</rerunFailedTestCasesOnly>
    <rerunImmediately>false</rerunImmediately>
-   <testSuiteGuid>3c5671ee-9c6e-4e07-b99c-a2ef5806c2cf</testSuiteGuid>
+   <testSuiteGuid>4fe41811-99cf-431c-9aee-36181eb604d2</testSuiteGuid>
    <testCaseLink>
-      <guid>5d8e9661-83ee-4c89-b72b-52bd2b26c6fe</guid>
+      <guid>f5265631-a54a-45e4-9625-2f3bc2af9b53</guid>
       <isReuseDriver>false</isReuseDriver>
       <isRun>true</isRun>
       <testCaseId>Test Cases/Auth/TC1_SignIn</testCaseId>
       <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
    </testCaseLink>
    <testCaseLink>
-      <guid>2b3341f9-338e-449f-afc4-757af18a2d86</guid>
+      <guid>5545a773-5816-4baa-bc67-cfc0aa4b70a2</guid>
       <isReuseDriver>false</isReuseDriver>
       <isRun>true</isRun>
-      <testCaseId>Test Cases/Inventarisasi/Kode Etik/TC3_CREATE Kode Etik</testCaseId>
+      <testCaseId>Test Cases/Navigation/to Inventarisasi - Kode Etik</testCaseId>
+      <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
+   </testCaseLink>
+   <testCaseLink>
+      <guid>16864cc8-7ccf-4ae9-a53c-73a32dfa78de</guid>
+      <isReuseDriver>false</isReuseDriver>
+      <isRun>true</isRun>
+      <testCaseId>Test Cases/Inventarisasi/Kode Etik/TC6_UPDATE Kode Etik</testCaseId>
       <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
    </testCaseLink>
 </TestSuiteEntity>

@@ -17,3 +17,35 @@ import com.kms.katalon.core.windows.keyword.WindowsBuiltinKeywords as Windows
 import internal.GlobalVariable as GlobalVariable
 import org.openqa.selenium.Keys as Keys
 
+WebUI.comment('Setelah berhasil login, maka admin akan mengupdate data Perjanjian Kerjasama PKSMOU')
+
+WebUI.click(findTestObject('Button Update Inventarisasi/Button Update Perjanjian (index)'))
+
+// Simpan nilai input sebelumnya
+String previousInput = WebUI.getAttribute(findTestObject('Update Perjanjian/textarea_Coba Update XXX1_mat-input-4'), 'value')
+
+WebUI.comment('Codingan Logic untuk mengecek Jikalau String yang ingin di update sama, maka akan diupdate')
+
+// Input value baru
+String newValue = 'PKS AUTOMATION'
+
+// Lakukan pengecekan kondisional
+if (newValue.equals(previousInput)) {
+    String suffix = 'Terbaru dan Terupdate'
+
+    while (newValue.equals(previousInput)) {
+        newValue += " $suffix"
+    }
+}
+
+// Masukkan nilai input baru
+WebUI.setText(findTestObject('Update Perjanjian/textarea_Coba Update XXX1_mat-input-4'), newValue)
+
+WebUI.click(findTestObject('Object Repository/Update Perjanjian/span_Update'))
+
+WebUI.click(findTestObject('Object Repository/Update Perjanjian/button_Yes'))
+
+WebUI.click(findTestObject('Object Repository/Update Perjanjian/button_OK'))
+
+WebUI.comment('Data berhasil diupdate')
+

@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <TestSuiteEntity>
    <description></description>
-   <name>New Test Suite</name>
+   <name>TS2_Login and Update Perjanjian Kerjasama PKS MOU</name>
    <tag></tag>
    <isRerun>false</isRerun>
    <mailRecipient></mailRecipient>
@@ -10,19 +10,26 @@
    <pageLoadTimeoutDefault>true</pageLoadTimeoutDefault>
    <rerunFailedTestCasesOnly>false</rerunFailedTestCasesOnly>
    <rerunImmediately>false</rerunImmediately>
-   <testSuiteGuid>7c33dbc2-beb3-4bbd-ba9d-d5a5de956907</testSuiteGuid>
+   <testSuiteGuid>0bbf14c4-36a2-4523-bbee-564343151e63</testSuiteGuid>
    <testCaseLink>
-      <guid>f5fb5dd0-9e3b-4593-869a-c5fe3b30fa15</guid>
+      <guid>0077afbc-a7bc-45f9-86c6-48d7837f402b</guid>
       <isReuseDriver>false</isReuseDriver>
       <isRun>true</isRun>
       <testCaseId>Test Cases/Auth/TC1_SignIn</testCaseId>
       <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
    </testCaseLink>
    <testCaseLink>
-      <guid>167b6f8c-5100-4ff8-9b3d-ddd0c297d2bc</guid>
+      <guid>252971a7-0038-4b71-84bc-7a126a86e3d0</guid>
       <isReuseDriver>false</isReuseDriver>
       <isRun>true</isRun>
-      <testCaseId>Test Cases/Auth/TC2_SIgnIn with reCAPTCHA - Not Feasible</testCaseId>
+      <testCaseId>Test Cases/Navigation/to Inventarisasi - Perjanjian Kerja Sama</testCaseId>
+      <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
+   </testCaseLink>
+   <testCaseLink>
+      <guid>652197bc-3300-4701-8b25-42f540d94e32</guid>
+      <isReuseDriver>false</isReuseDriver>
+      <isRun>true</isRun>
+      <testCaseId>Test Cases/Inventarisasi/Perjanjian Kerja Sama PKS MOU/TC7_UPDATE Perjanjian</testCaseId>
       <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
    </testCaseLink>
 </TestSuiteEntity>

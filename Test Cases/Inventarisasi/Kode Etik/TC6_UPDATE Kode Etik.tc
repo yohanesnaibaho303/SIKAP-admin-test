@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <TestCaseEntity>
    <description></description>
-   <name>TC3.3_DELETE Kode Etik</name>
+   <name>TC6_UPDATE Kode Etik</name>
    <tag></tag>
    <comment></comment>
    <testCaseGuid>2306acfa-c528-4e86-8b48-32505ec68c0b</testCaseGuid>
