@@ -17,9 +17,9 @@ import com.kms.katalon.core.windows.keyword.WindowsBuiltinKeywords as Windows
 import internal.GlobalVariable as GlobalVariable
 import org.openqa.selenium.Keys as Keys
 
-WebUI.callTestCase(findTestCase('Auth/TC1_SignIn'), [:], FailureHandling.STOP_ON_FAILURE)
+WebUI.comment('Setelah Berhasil login, admin akan diarahkan ke dashboard')
 
-WebUI.callTestCase(findTestCase('Navigation/to Inventarisasi - Regulasi'), [:], FailureHandling.STOP_ON_FAILURE)
+WebUI.comment('Admin diarahkan ke input Regulasi Intenal Eksternal')
 
 WebUI.click(findTestObject('Object Repository/Create Regulasi/svg_Input RegulasiPeraturan_ng-tns-c137-10'))
 
@@ -37,7 +37,7 @@ WebUI.setText(findTestObject('Object Repository/Create Regulasi/input_Undang-und
 
 WebUI.setText(findTestObject('Object Repository/Create Regulasi/textarea_Undang-undang Test_mat-input-6'), 'implementasi automation')
 
-WebUI.comment('upload file')
+WebUI.comment('Secara otomatis bot dapat mengupload file dari local device')
 
 WebUI.uploadFile(findTestObject('Create Regulasi/input_Input RegulasiPeraturan_file-input'), 'C:\\\\Users\\\\yohan\\\\Downloads\\\\laporan.pdf')
 
@@ -51,11 +51,13 @@ WebUI.delay(5)
 
 WebUI.click(findTestObject('Object Repository/Create Regulasi/span_Kedeputian Bidang Strategi, Perencanaa_8a0a63'))
 
-WebUI.click(findTestObject('Object Repository/Create Regulasi/span__mat-mdc-button-touch-target'))
+WebUI.setText(findTestObject('Create Regulasi/input_Cari_mat-start-date mat-date-range-input-inner ng-untouched ng-pristine ng-invalid'), 
+    '01/02/2024')
 
-WebUI.click(findTestObject('Object Repository/Create Regulasi/div_17'))
+WebUI.setText(findTestObject('Create Regulasi/input__mat-end-date mat-date-range-input-inner ng-untouched ng-pristine ng-invalid'), 
+    '03/02/2024')
 
-WebUI.click(findTestObject('Object Repository/Create Regulasi/div_19'))
+WebUI.comment('Setelah berhasil mengisi semua inputan dengan data yang valid, maka admin akan bisa menyimpan data')
 
 WebUI.click(findTestObject('Object Repository/Create Regulasi/span_Simpan'))
 

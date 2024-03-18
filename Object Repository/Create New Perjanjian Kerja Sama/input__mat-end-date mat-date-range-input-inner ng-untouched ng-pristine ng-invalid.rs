@@ -1,17 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <WebElementEntity>
    <description></description>
-   <name>input_Kedeputian Bidang Strategi, Perencana_4b28cb</name>
+   <name>input__mat-end-date mat-date-range-input-inner ng-untouched ng-pristine ng-invalid</name>
    <tag></tag>
    <elementGuidId>221169c2-bd50-4ade-8137-1d86c726cc55</elementGuidId>
    <selectorCollection>
       <entry>
          <key>XPATH</key>
-         <value>(//input[@type='text'])[2]</value>
+         <value>(//input[@type='text'])[3]</value>
       </entry>
       <entry>
          <key>CSS</key>
-         <value>input.mat-start-date.mat-date-range-input-inner.ng-untouched.ng-pristine.ng-invalid</value>
+         <value>input.mat-end-date.mat-date-range-input-inner.ng-untouched.ng-pristine.ng-invalid</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -23,7 +23,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>input</value>
-      <webElementGuid>356e772d-0de6-4b03-bf6f-51620833ff17</webElementGuid>
+      <webElementGuid>04480e07-7dcf-429d-9dc6-122c656c4e44</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -31,31 +31,31 @@
       <name>type</name>
       <type>Main</type>
       <value>text</value>
-      <webElementGuid>571377ed-fb4a-4d9a-9d29-cf6ff20a41fc</webElementGuid>
+      <webElementGuid>8812e09c-63cb-4fab-ad89-0e723d915955</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>placeholder</name>
       <type>Main</type>
-      <value>Start date</value>
-      <webElementGuid>7e2aa233-4885-463d-b2a6-b6d044f8e835</webElementGuid>
+      <value>End date</value>
+      <webElementGuid>172a32ad-f97d-4a2c-9268-18f0073c2580</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>formcontrolname</name>
       <type>Main</type>
-      <value>tmtpks</value>
-      <webElementGuid>50fa56f8-67c0-4487-add9-0d39d6c7e9f7</webElementGuid>
+      <value>tat</value>
+      <webElementGuid>14dad834-b5fe-4477-b00c-18ccfd6ff97c</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>class</name>
       <type>Main</type>
-      <value>mat-start-date mat-date-range-input-inner ng-untouched ng-pristine ng-invalid</value>
-      <webElementGuid>1ae76782-39b2-42f0-bd53-32182a1c2a73</webElementGuid>
+      <value>mat-end-date mat-date-range-input-inner ng-untouched ng-pristine ng-invalid</value>
+      <webElementGuid>0c433de7-6a63-4754-b9e1-ce1aaeef8b5d</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -63,46 +63,46 @@
       <name>aria-haspopup</name>
       <type>Main</type>
       <value>dialog</value>
-      <webElementGuid>4a19967d-12f1-4ebf-bc0f-40a1ce20057a</webElementGuid>
+      <webElementGuid>65e2a257-6f70-42f1-97d3-f60592aed1c9</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath</name>
       <type>Main</type>
-      <value>id(&quot;mat-date-range-input-0&quot;)/div[@class=&quot;mat-date-range-input-container cdk-focused cdk-mouse-focused&quot;]/div[@class=&quot;mat-date-range-input-wrapper&quot;]/input[@class=&quot;mat-start-date mat-date-range-input-inner ng-untouched ng-pristine ng-invalid&quot;]</value>
-      <webElementGuid>a9d40351-82c7-4021-8cdf-f2faf9e6b083</webElementGuid>
+      <value>id(&quot;mat-date-range-input-0&quot;)/div[@class=&quot;mat-date-range-input-container cdk-focused cdk-mouse-focused&quot;]/div[@class=&quot;mat-date-range-input-wrapper mat-date-range-input-end-wrapper&quot;]/input[@class=&quot;mat-end-date mat-date-range-input-inner ng-untouched ng-pristine ng-invalid&quot;]</value>
+      <webElementGuid>ef4d4bd0-d477-4dd8-8668-2205b37922ec</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:attributes</name>
       <type>Main</type>
-      <value>(//input[@type='text'])[2]</value>
-      <webElementGuid>bd5cf0d2-308a-4d0a-8061-1fcef354ff2a</webElementGuid>
+      <value>(//input[@type='text'])[3]</value>
+      <webElementGuid>7f92ad3d-f5e6-4864-ab73-440bcaa23d6e</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:idRelative</name>
       <type>Main</type>
-      <value>//mat-date-range-input[@id='mat-date-range-input-0']/div/div/input</value>
-      <webElementGuid>5d20b5ec-3a7a-4798-a2cf-3a17bc5c5e9b</webElementGuid>
+      <value>//mat-date-range-input[@id='mat-date-range-input-0']/div/div[2]/input</value>
+      <webElementGuid>5646e1b4-50a7-4552-9739-9bb1ed3692f1</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:position</name>
       <type>Main</type>
-      <value>//mat-date-range-input/div/div/input</value>
-      <webElementGuid>b9826884-5607-4df3-85de-dd426570244b</webElementGuid>
+      <value>//div[2]/input</value>
+      <webElementGuid>e007e7a6-4963-4f46-82b0-708b0e77eef7</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:customAttributes</name>
       <type>Main</type>
-      <value>//input[@type = 'text' and @placeholder = 'Start date']</value>
-      <webElementGuid>32dc1ea5-ed6d-4065-9816-00fe50ce6039</webElementGuid>
+      <value>//input[@type = 'text' and @placeholder = 'End date']</value>
+      <webElementGuid>9791c9ed-7a3b-43e3-96aa-6a3a98de384a</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

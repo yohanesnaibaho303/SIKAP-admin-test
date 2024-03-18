@@ -47,7 +47,7 @@ WebUI.delay(3)
 
 WebUI.click(findTestObject('Object Repository/Create New Perjanjian Kerja Sama/span_Kedeputian Bidang Strategi, Perencanaa_8a0a63'))
 
-WebUI.setText(findTestObject('Object Repository/Create New Perjanjian Kerja Sama/input_Kedeputian Bidang Strategi, Perencana_4b28cb'), 
+WebUI.setText(findTestObject('Object Repository/Create New Perjanjian Kerja Sama/input__mat-end-date mat-date-range-input-inner ng-untouched ng-pristine ng-invalid'), 
     '01/02/2024')
 
 WebUI.setText(findTestObject('Object Repository/Create New Perjanjian Kerja Sama/input__mat-end-date mat-date-range-input-in_e5a77e'), 
