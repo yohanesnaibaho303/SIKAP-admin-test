@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span__mat-mdc-button-touch-target</name>
+   <tag></tag>
+   <elementGuidId>26524cda-3ba6-47c4-b510-31d880daf129</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//mat-datepicker-toggle/button/span[4]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>button.mdc-icon-button.mat-mdc-icon-button.mat-unthemed.mat-mdc-button-base.cdk-focused.cdk-mouse-focused > span.mat-mdc-button-touch-target</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>2f195903-6760-4c34-b253-2eb16630ae6a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>mat-mdc-button-touch-target</value>
+      <webElementGuid>c812bc76-37cd-4ae6-a520-c2f4e3cc193d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[1]/body[@class=&quot;fuse-splash-screen-hidden os-windows light theme-default ng-tns-0-4&quot;]/app-root[1]/layout[@class=&quot;ng-star-inserted&quot;]/classy-layout[@class=&quot;ng-star-inserted&quot;]/div[@class=&quot;flex flex-col flex-auto w-full min-w-0&quot;]/div[@class=&quot;flex flex-col flex-auto&quot;]/app-inputregulasiperaturan[@class=&quot;ng-star-inserted&quot;]/div[@class=&quot;flex flex-col w-full&quot;]/div[@class=&quot;bg-card flex flex-col flex-auto min-w-0 m-6 rounded-xl&quot;]/form[@class=&quot;m-8 ng-invalid ng-touched ng-dirty&quot;]/div[@class=&quot;flex flex-row&quot;]/div[@class=&quot;flex flex-col w-8/12&quot;]/mat-form-field[@class=&quot;mat-mdc-form-field example-form-field ng-tns-c29-22 mat-mdc-form-field-type-mat-date-range-input mat-mdc-form-field-has-icon-suffix mat-form-field-appearance-fill mat-primary ng-invalid ng-star-inserted ng-touched ng-dirty&quot;]/div[@class=&quot;mat-mdc-text-field-wrapper mdc-text-field ng-tns-c29-22 mdc-text-field--filled mdc-text-field--no-label&quot;]/div[@class=&quot;mat-mdc-form-field-flex ng-tns-c29-22&quot;]/div[@class=&quot;mat-mdc-form-field-icon-suffix ng-tns-c29-22 ng-star-inserted&quot;]/mat-datepicker-toggle[@class=&quot;mat-datepicker-toggle ng-tns-c29-22&quot;]/button[@class=&quot;mdc-icon-button mat-mdc-icon-button mat-unthemed mat-mdc-button-base cdk-focused cdk-mouse-focused&quot;]/span[@class=&quot;mat-mdc-button-touch-target&quot;]</value>
+      <webElementGuid>6be5c625-c0e0-44ce-9486-92cc8ad2cfc1</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//mat-datepicker-toggle/button/span[4]</value>
+      <webElementGuid>0f3ab56a-737b-420b-8982-e702ecfc7042</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

@@ -19,5 +19,5 @@ import org.openqa.selenium.Keys as Keys
 
 WebUI.click(findTestObject('Read Kode Etik/div_Inventarisasi'))
 
-WebUI.click(findTestObject(null))
+WebUI.click(findTestObject('Create Regulasi/a_Regulasi Eksternal Dan Peraturan Internal'))
 

@@ -23,7 +23,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>input</value>
-      <webElementGuid>4562f574-d1b9-464a-8c32-01d47906e3b5</webElementGuid>
+      <webElementGuid>8ec5ba97-41cd-4d35-9318-3ebad72635cf</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -31,15 +31,15 @@
       <name>type</name>
       <type>Main</type>
       <value>text</value>
-      <webElementGuid>e2daf27e-7db7-46d3-bb9d-59c3c66d856d</webElementGuid>
+      <webElementGuid>2f0a9ff4-0ef1-43dc-afee-6c9799bad62a</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>formcontrolname</name>
       <type>Main</type>
-      <value>pelaksanaPeraturan</value>
-      <webElementGuid>d63151cd-ff7e-4a9a-bca9-978a04eaad9e</webElementGuid>
+      <value>pelaksana_regulasi</value>
+      <webElementGuid>9e51b04e-b8b6-4751-9855-bf08def08151</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -47,7 +47,7 @@
       <name>class</name>
       <type>Main</type>
       <value>mat-mdc-input-element mat-mdc-autocomplete-trigger ng-tns-c29-14 mat-mdc-form-field-input-control mdc-text-field__input ng-untouched ng-pristine ng-valid cdk-text-field-autofill-monitored</value>
-      <webElementGuid>bee3b689-16ba-4354-acc8-1c58410fe5c7</webElementGuid>
+      <webElementGuid>9357247c-fd96-4f21-973e-89746fef1d07</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -55,7 +55,7 @@
       <name>id</name>
       <type>Main</type>
       <value>mat-input-5</value>
-      <webElementGuid>cbfec22b-ff99-4980-88cb-3b6883ea5770</webElementGuid>
+      <webElementGuid>bb355ab7-9e16-4271-9f98-1ce23fa0bed2</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -63,7 +63,7 @@
       <name>aria-invalid</name>
       <type>Main</type>
       <value>false</value>
-      <webElementGuid>770795cc-2ddd-4520-8443-c61dcc0ca6a0</webElementGuid>
+      <webElementGuid>52ff5aae-3cbc-49ec-8896-b5e8934059b0</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -71,7 +71,7 @@
       <name>aria-required</name>
       <type>Main</type>
       <value>false</value>
-      <webElementGuid>21f16295-2bea-4aad-97f1-ef8fbe3bd503</webElementGuid>
+      <webElementGuid>669caafc-8685-4016-8889-7161c6e526ea</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -79,7 +79,7 @@
       <name>autocomplete</name>
       <type>Main</type>
       <value>off</value>
-      <webElementGuid>c5f1588c-582f-4540-9fcf-3293d68b961c</webElementGuid>
+      <webElementGuid>d9784d71-165c-48a4-ab7d-db5383ebefc1</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -87,7 +87,7 @@
       <name>role</name>
       <type>Main</type>
       <value>combobox</value>
-      <webElementGuid>ccfa9f2b-d556-4c6e-a5c6-f9d73a6e561b</webElementGuid>
+      <webElementGuid>c0c78851-c796-4808-9935-01881f23d77c</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -95,15 +95,15 @@
       <name>aria-autocomplete</name>
       <type>Main</type>
       <value>list</value>
-      <webElementGuid>ff80293e-af1b-404d-86ee-52202a1818e2</webElementGuid>
+      <webElementGuid>94ad769c-8045-4405-bf4f-9aacf3d839be</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>aria-expanded</name>
       <type>Main</type>
-      <value>false</value>
-      <webElementGuid>76dbeb00-698a-4579-a446-be4d9c8a49d2</webElementGuid>
+      <value>true</value>
+      <webElementGuid>684a3c00-6e7f-4a6a-baef-9922908c1f4e</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -111,7 +111,7 @@
       <name>aria-haspopup</name>
       <type>Main</type>
       <value>listbox</value>
-      <webElementGuid>fb98aaaf-08b8-4ab2-a825-51d02b0f4be8</webElementGuid>
+      <webElementGuid>2a8b35cd-644c-4403-945d-3b34c2f07561</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -119,7 +119,23 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;mat-input-5&quot;)</value>
-      <webElementGuid>516e6dbf-b408-4c57-8185-95b403b97d87</webElementGuid>
+      <webElementGuid>b2b6ba6f-7294-49be-a416-54951b077ef4</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>aria-owns</name>
+      <type>Main</type>
+      <value>mat-autocomplete-0</value>
+      <webElementGuid>1d1d836b-1842-4461-afe4-41d9100b58a4</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>aria-activedescendant</name>
+      <type>Main</type>
+      <value>mat-option-0</value>
+      <webElementGuid>ead7bfb8-77dc-47cc-9f99-0570857af028</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -127,7 +143,23 @@
       <name>xpath:attributes</name>
       <type>Main</type>
       <value>//input[@id='mat-input-5']</value>
-      <webElementGuid>cbbfd979-6cc7-4bb6-ac57-ef5b222a4fc8</webElementGuid>
+      <webElementGuid>fac325ba-71f3-4819-9b3c-6c48f0210f42</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[10]/div[2]/mat-form-field/div/div[2]/div/input</value>
+      <webElementGuid>29d4e9bc-4d8e-4e5f-8cdf-0f65fc8e449e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//input[@type = 'text' and @id = 'mat-input-5']</value>
+      <webElementGuid>526b1ef8-b439-45c4-9925-11e028738fc9</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -136,13 +168,5 @@
       <type>Main</type>
       <value>//div[6]/div[2]/mat-form-field/div/div[2]/div/input</value>
       <webElementGuid>61eb89ba-64a3-438b-b149-87645fa7f87c</webElementGuid>
-   </webElementXpaths>
-   <webElementXpaths>
-      <isSelected>false</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>xpath:customAttributes</name>
-      <type>Main</type>
-      <value>//input[@type = 'text' and @id = 'mat-input-5']</value>
-      <webElementGuid>917bf4e8-935d-433a-8413-955908bcecde</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

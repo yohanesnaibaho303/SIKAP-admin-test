@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>svg_Regulasi Eksternal_ng-tns-c137-12</name>
+   <tag></tag>
+   <elementGuidId>f27d04f5-7055-4504-9e6e-c087bcbd8aef</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>(.//*[normalize-space(text()) and normalize-space(.)='Regulasi Eksternal'])[1]/following::*[name()='svg'][2]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>svg.ng-tns-c137-12</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>svg</value>
+      <webElementGuid>6a2a6c87-ac88-4fb9-bd07-46df354125c6</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>viewBox</name>
+      <type>Main</type>
+      <value>0 0 24 24</value>
+      <webElementGuid>6114010c-bd6e-43b9-b852-3d77d4635c3d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>width</name>
+      <type>Main</type>
+      <value>24px</value>
+      <webElementGuid>ce6b5433-0afe-4ccb-9636-fe80f657daad</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>height</name>
+      <type>Main</type>
+      <value>24px</value>
+      <webElementGuid>a33b0ec4-9263-431a-8535-a50297f65ff7</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>focusable</name>
+      <type>Main</type>
+      <value>false</value>
+      <webElementGuid>6cfc1fd7-80af-4722-a230-238463d62a6c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>ng-tns-c137-12</value>
+      <webElementGuid>44d6b666-112c-4547-8a3f-9218eab25fc6</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;mat-select-4&quot;)/div[@class=&quot;mat-mdc-select-trigger ng-tns-c137-12&quot;]/div[@class=&quot;mat-mdc-select-arrow-wrapper ng-tns-c137-12&quot;]/div[@class=&quot;mat-mdc-select-arrow ng-tns-c137-12&quot;]/svg[@class=&quot;ng-tns-c137-12&quot;]</value>
+      <webElementGuid>f648b09a-1356-46f9-816b-5f4eee7edacd</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Regulasi Eksternal'])[1]/following::*[name()='svg'][2]</value>
+      <webElementGuid>34d8cfae-a8ff-4bc8-a39a-8e58fe1a9d29</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Input Regulasi/Peraturan'])[1]/following::*[name()='svg'][2]</value>
+      <webElementGuid>1b84b3a5-8847-4adf-915c-1ef88b777c46</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Cari'])[1]/preceding::*[name()='svg'][2]</value>
+      <webElementGuid>03cb7361-70df-4b56-84b8-02aed189c5fd</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='–'])[1]/preceding::*[name()='svg'][3]</value>
+      <webElementGuid>6c7d3932-18a6-467f-a39b-c8415e4b1cf2</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
